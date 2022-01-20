@@ -1,7 +1,3 @@
-print("Hello")
-print("It was a dark and stormy night.")
-print("Suddenly a shot rang out!")
-print("Hi! This is a double quote mark: \" We use it for printing.")
 print("My wife is helping me code, isn't that awesome?")
 print("This day has been really exhausting, I'm going to sleep good tonight.")
 print("I'm trying to sleep, but my dogs woke me up. Now I'm working on this.")
