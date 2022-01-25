@@ -86,6 +86,7 @@ arcade.draw_rectangle_filled(281, 357, 61, 4, arcade.color.WHITE)
 arcade.draw_rectangle_filled(281, 352, 61, 4, arcade.color.RED)
 arcade.draw_rectangle_filled(281, 347, 61, 4, arcade.color.WHITE)
 
+
 # Asteroid
 arcade.draw_polygon_filled([[280, 500],
                             [300, 480],
