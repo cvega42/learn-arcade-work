@@ -124,8 +124,6 @@ def main():
 
     draw_boosters_flames()
 
-
-
     # Finish  and run
     arcade.finish_render()
     arcade.run()
