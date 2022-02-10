@@ -122,7 +122,6 @@ def main():
 
     draw_craders_on_mars(10, 10)
 
-
     draw_boosters_flames()
 
 
