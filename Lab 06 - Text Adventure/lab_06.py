@@ -5,6 +5,7 @@ print("The rent is only $400 a month and you're a broke college student at Weber
 print("The rent is too good to pass up, so you want to take a look around to see if it's too good to be true")
 print("Type north, east, south, or west to navigate")
 
+
 #Creating Room Classes-----------------------------------------------
 class Room:
     description: ""
