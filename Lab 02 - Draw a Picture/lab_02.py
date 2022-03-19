@@ -74,6 +74,7 @@ arcade.draw_ellipse_filled(380, 90, 30, 60, arcade.color.YELLOW)
 # Draw text on the spaceship
 arcade.draw_text("NASA", 378, 291, arcade.color.BLUE_GRAY, 12)
 
+
 # America Flag
 arcade.draw_line(250, 255, 250, 380, arcade.color.GRAY, 4)
 arcade.draw_rectangle_filled(260, 375, 20, 20, arcade.color.BLUE)

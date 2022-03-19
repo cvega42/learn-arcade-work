@@ -63,6 +63,7 @@ while not done:
         drink = drink - 1
         thirst = 0
 
+
     # you are thirsty
     if thirst >= 3:
         print("you are thirsty!")
