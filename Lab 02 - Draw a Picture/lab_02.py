@@ -1,8 +1,4 @@
-"""
-This is a sample program.
 
-Multi-line comments are surrond by three double-quote
-"""
 
 # Import the "arcade" library
 import arcade
