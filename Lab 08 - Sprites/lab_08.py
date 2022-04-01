@@ -24,6 +24,7 @@ BULLET_SPEED = 30
 class MyGame(arcade.Window):
     """ Main application class """
 
+
     def __init__(self, width, height, title):
         super().__init__(width, height, title)
 
