@@ -21,6 +21,7 @@ SCREEN_TITLE = "Sprites and Bullets Enemy Aims Example"
 BULLET_SPEED = 30
 
 
+
 class MyGame(arcade.Window):
     """ Main application class """
 
