@@ -63,7 +63,6 @@ class MyGame(arcade.Window):
         # game state; 0=running, -1=lose, 1=win
         self.game_state = 0
 
-
         # Add player ship
         self.player = arcade.Sprite(":resources:images/space_shooter/playerShip1_orange.png", 0.5)
         self.player_list.append(self.player)
