@@ -164,7 +164,6 @@ class MyGame(arcade.Window):
         self.bullet_list.draw()
 
 
-
         if self.frame_count % 60 == 0:
             self.last_time = time.time()
 
